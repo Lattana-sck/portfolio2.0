@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "bd514249237636a4b0b8",
+    "revision": "d94ec5d609d9fd2bd310",
     "url": "/portfolio2.0/static/css/main.b2e4c4fa.chunk.css"
   },
   {
-    "revision": "bd514249237636a4b0b8",
-    "url": "/portfolio2.0/static/js/main.bd514249.chunk.js"
+    "revision": "d94ec5d609d9fd2bd310",
+    "url": "/portfolio2.0/static/js/main.d94ec5d6.chunk.js"
   },
   {
     "revision": "9bf32f55384023627f7f",
@@ -96,28 +96,24 @@ self.__precacheManifest = [
     "url": "/portfolio2.0/static/media/logo.06e73328.svg"
   },
   {
-    "revision": "4ea3794d631bedab7999678f46b0a162",
-    "url": "/portfolio2.0/static/media/CentraNo2-Bold.4ea3794d.ttf"
-  },
-  {
     "revision": "63911e8535278ced52b8a37e819f6f5d",
     "url": "/portfolio2.0/static/media/CentraNo2-Medium.63911e85.ttf"
+  },
+  {
+    "revision": "4ea3794d631bedab7999678f46b0a162",
+    "url": "/portfolio2.0/static/media/CentraNo2-Bold.4ea3794d.ttf"
   },
   {
     "revision": "386f05946a76935fcabf319affff517a",
     "url": "/portfolio2.0/static/media/CentraNo2-Book.386f0594.ttf"
   },
   {
-    "revision": "5f3ca49706055342e92708c7dd31849f",
-    "url": "/portfolio2.0/static/media/banner-bg.5f3ca497.png"
-  },
-  {
     "revision": "e9228c17c13a87653f1b8ed01a3ff306",
     "url": "/portfolio2.0/static/media/footer-bg.e9228c17.png"
   },
   {
-    "revision": "04eb8fc57f27498e5ae37523e3bfb2c7",
-    "url": "/portfolio2.0/static/media/revicons.04eb8fc5.woff"
+    "revision": "5f3ca49706055342e92708c7dd31849f",
+    "url": "/portfolio2.0/static/media/banner-bg.5f3ca497.png"
   },
   {
     "revision": "17629a5dfe0d3c3946cf401e1895f091",
@@ -128,6 +124,10 @@ self.__precacheManifest = [
     "url": "/portfolio2.0/static/media/revicons.2feb69cc.eot"
   },
   {
+    "revision": "04eb8fc57f27498e5ae37523e3bfb2c7",
+    "url": "/portfolio2.0/static/media/revicons.04eb8fc5.woff"
+  },
+  {
     "revision": "f750170aaddf4e5f885a27d391a311d9",
     "url": "/portfolio2.0/static/media/arrow1.f750170a.svg"
   },
@@ -136,7 +136,7 @@ self.__precacheManifest = [
     "url": "/portfolio2.0/static/media/arrow2.9070490b.svg"
   },
   {
-    "revision": "be2a5070e2c8a4d9fbdc6ca6e2edb399",
+    "revision": "31bd54e3eebce4e064abb3d2cc5f6e83",
     "url": "/portfolio2.0/index.html"
   }
 ];
